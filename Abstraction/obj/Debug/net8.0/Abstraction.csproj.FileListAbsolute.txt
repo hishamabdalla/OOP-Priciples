@@ -1,0 +1,14 @@
+D:\OOP C#\Abstruction\Abstruction\bin\Debug\net8.0\Abstraction.exe
+D:\OOP C#\Abstruction\Abstruction\bin\Debug\net8.0\Abstraction.deps.json
+D:\OOP C#\Abstruction\Abstruction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+D:\OOP C#\Abstruction\Abstruction\bin\Debug\net8.0\Abstraction.dll
+D:\OOP C#\Abstruction\Abstruction\bin\Debug\net8.0\Abstraction.pdb
+D:\OOP C#\Abstruction\Abstruction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP C#\Abstruction\Abstruction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+D:\OOP C#\Abstruction\Abstruction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+D:\OOP C#\Abstruction\Abstruction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\OOP C#\Abstruction\Abstruction\obj\Debug\net8.0\Abstraction.dll
+D:\OOP C#\Abstruction\Abstruction\obj\Debug\net8.0\refint\Abstraction.dll
+D:\OOP C#\Abstruction\Abstruction\obj\Debug\net8.0\Abstraction.pdb
+D:\OOP C#\Abstruction\Abstruction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+D:\OOP C#\Abstruction\Abstruction\obj\Debug\net8.0\ref\Abstraction.dll
