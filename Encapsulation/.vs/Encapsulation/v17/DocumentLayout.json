@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP C#\\OOP Principles\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1353491-9DE0-4462-85C2-4809B72DAEC7}|Encapsulation.csproj|d:\\oop c#\\oop principles\\encapsulation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1353491-9DE0-4462-85C2-4809B72DAEC7}|Encapsulation.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1353491-9DE0-4462-85C2-4809B72DAEC7}|Encapsulation.csproj|d:\\oop c#\\oop principles\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1353491-9DE0-4462-85C2-4809B72DAEC7}|Encapsulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\OOP C#\\OOP Principles\\Encapsulation\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "D:\\OOP C#\\OOP Principles\\Encapsulation\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:54:48.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOP C#\\OOP Principles\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OOP C#\\OOP Principles\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:22:55.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\OOP C#\OOP Principles\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+D:\OOP C#\OOP Principles\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+D:\OOP C#\OOP Principles\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+D:\OOP C#\OOP Principles\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+D:\OOP C#\OOP Principles\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+D:\OOP C#\OOP Principles\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP C#\OOP Principles\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+D:\OOP C#\OOP Principles\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+D:\OOP C#\OOP Principles\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\OOP C#\OOP Principles\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+D:\OOP C#\OOP Principles\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+D:\OOP C#\OOP Principles\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+D:\OOP C#\OOP Principles\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+D:\OOP C#\OOP Principles\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+D:\OOP C#\OOP Principles\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
